@@ -13,7 +13,7 @@ This Sandbox is also deployable to a Kubernetes cluster, allowing your team to h
 Clone the repo:
 
 ```bash
-meta git clone git@github.com:hone-labs/algorand-sandbox.git
+git clone git@github.com:hone-labs/algorand-sandbox.git
 ```
 
 ## Important end points
